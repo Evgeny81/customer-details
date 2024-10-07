@@ -7,7 +7,7 @@ This project is a Svelte application built with TypeScript and follows the Featu
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/Evgeny81/customer-details.git
 ```
 
 2. Navigate to the Project Directory
